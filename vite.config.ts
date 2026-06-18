@@ -9,7 +9,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/app-english.github.io/',
+  base: '/',
   server: {
     port: 5173,
     open: true,
